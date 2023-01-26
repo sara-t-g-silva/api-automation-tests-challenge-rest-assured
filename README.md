@@ -20,7 +20,7 @@ alt="GFT - Quality Assurance Para Mulheres">
 * API utilizada [Restfull-Booker](https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth)
 
 
-* Frameworks e linguagem necessárias 
+* Frameworks e linguagens necessárias 
   `<linguagem: Java / dependências: Junit, AllureFramework, RestAssured>`
  
     
