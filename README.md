@@ -21,10 +21,10 @@ alt="GFT - Quality Assurance Para Mulheres">
 
 
 * Frameworks e linguagem necessárias 
-  `<linguagem: Java / dependência: Junit, AllureFramework, RestAssured>`
+  `<linguagem: Java / dependências: Junit, AllureFramework, RestAssured>`
  
     
-* Tools `<IDE: Eclipse|| Intellij || NetBeans/ Json Serve>`
+* Tools `<IDE's: Eclipse|| Intellij || NetBeans/ Json Serve>`
 
 
 
